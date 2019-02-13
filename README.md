@@ -1,8 +1,8 @@
 # labpy1
 
-##Prorgam Sederhana Untuk Menentukan Bilangan Terbesar Dari Tiga Buah Bilangan.
+## Prorgam Sederhana Untuk Menentukan Bilangan Terbesar Dari Tiga Buah Bilangan.
 
-###Algortima Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah Bilangan.
+### Algortima Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah Bilangan.
 
 
 1.	Masukan angka pertama = 100
@@ -15,11 +15,11 @@
 Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya Kita Membuat Flowchartnya.
 Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah Bilangan.
 
-###Flowchart Program.
+### Flowchart Program.
 
  ![foto flochart](https://user-images.githubusercontent.com/46738174/52727971-f3c1e700-2fe8-11e9-9612-6071e0d3bbf0.jpg)
 
-###Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah Bilangan.
+### Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah Bilangan.
 
 1. Ketikan Program print (' Menentukan Bilangan Terbesar') fungsi print disini untuk menampilkan kata (Menentukan Bilangan Terbesar)
   Sedangakan fungsi tanda petik 1 (' ') untuk menentukan tipe data.
@@ -34,11 +34,11 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 
 ![foto program1](https://user-images.githubusercontent.com/46738174/52730515-28846d00-2fee-11e9-9770-f2de0d3bc2a8.png)
 
-4. Ketikan Program a= int (input ('Bilangan Kedua = '))
+4. Ketikan Program b= int (input ('Bilangan Kedua = '))
 
 ![foto program1](https://user-images.githubusercontent.com/46738174/52730515-28846d00-2fee-11e9-9770-f2de0d3bc2a8.png)
 
-5. Ketikan Program a= int (input ('Bilangan Ketiga = '))
+5. Ketikan Program c= int (input ('Bilangan Ketiga = '))
 
 ![foto program1](https://user-images.githubusercontent.com/46738174/52730515-28846d00-2fee-11e9-9770-f2de0d3bc2a8.png)
 
